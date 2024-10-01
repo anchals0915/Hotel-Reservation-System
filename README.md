@@ -1,6 +1,6 @@
 # Hotel Management System
 
-Welcome to the Hotel Management System! This system allows users to manage hotel reservations through a command-line interface.
+Welcome to the Hotel Management System! This system is built using Java and utilizes JDBC (Java Database Connectivity) to efficiently manage hotel reservations through a command-line interface. With JDBC, the application connects directly to a MySQL database, allowing users to perform operations such as reserving rooms, viewing reservations, updating booking details, and deleting records. By leveraging the power of Java and the seamless database integration of JDBC, this system ensures smooth and reliable management of hotel reservations while maintaining data consistency and security.
 
 ## Features
 
